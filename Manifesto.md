@@ -44,7 +44,6 @@
   As for the needle/haystack problem - string functions use haystack/needle, array functions use needle/haystack, remember it or learn to use an IDE.
 
 10. **As I said: steal, so here goes:**  
-  - http://stackoverflow.com/questions/694246/how-is-php-done-the-right-way/694309#694309
   - http://thinkrelevance.com/blog/2007/05/17/design-patterns-are-code-smells
   - http://michaelkimsal.com/blog/php-is-not-object-oriented/
   - http://stackoverflow.com/questions/49002/prefer-composition-over-inheritance/53354#53354
